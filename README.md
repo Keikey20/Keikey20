@@ -17,7 +17,7 @@ I'm a final-year Aerospace Engineering student at Beijing Institute of Technolog
 MATLAB simulation of position estimation during Mars Entry, Descent and Landing. Compares baseline and enhanced Extended Kalman Filters, including accelerometer bias estimation and confidence-dependent TRN measurement weighting.
 **Tools:** MATLAB, Extended Kalman Filter (EKF), Monte Carlo Simulation
 
-[View Project](YOUR_REPOSITORY_LINK)
+[View Project](https://github.com/Keikey20/Mars-EDL-Autonomous-Navigation.git)
 
 ### 2. Spacecraft Proximity Orbit Design and Maintenance
 Study of relative spacecraft motion, close-proximity fly-around trajectories and orbital maintenance under perturbations. Investigates the effects of J2, solar radiation pressure and lunar third-body gravity on relative orbital motion.
