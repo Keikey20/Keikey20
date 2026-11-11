@@ -44,10 +44,9 @@ MATLAB/Simulink simulation of a lunar descent trajectory, focusing on trajectory
 [View Project](https://github.com/Keikey20/Lunar-Soft-Landing-Guidance-Control.git)
 
 
-## Education
-**Beijing Institute of Technology**  
+## MAJOR
 B.Eng. Aerospace Engineering  
-Expected Graduation: January 2027
+
 
 ## Current Interests
 Guidance, Navigation and Control (GNC), spacecraft dynamics, autonomous flight, and aerospace systems engineering.
