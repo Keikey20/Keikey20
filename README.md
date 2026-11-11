@@ -29,7 +29,7 @@ Study of relative spacecraft motion, close-proximity fly-around trajectories and
 MATLAB study of periodic halo orbits in the Circular Restricted Three-Body Problem (CR3BP). Explores orbit correction, stability analysis and the propagation of stable and unstable invariant manifolds.
 **Tools:** MATLAB, CR3BP, Orbital Mechanics, Numerical Simulation, Dynamical Systems
 
-[View Project](YOUR_REPOSITORY_LINK)
+[View Project](https://github.com/Keikey20/CR3BP-Halo-Orbit-Manifolds.git)
 
 ### 4. CubeSat Attitude Dynamics and Control
 Academic project focused on CubeSat attitude dynamics and control, including quaternion-based attitude representation, reaction wheels, control moment gyroscopes and hybrid control strategies.
