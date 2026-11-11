@@ -41,7 +41,7 @@ Academic project focused on CubeSat attitude dynamics and control, including qua
 MATLAB/Simulink simulation of a lunar descent trajectory, focusing on trajectory shaping, thrust-angle control and spacecraft mass variation. Includes numerical integration and sensitivity analysis of selected descent parameters.
 **Tools:** MATLAB, Simulink, Guidance and Control, Numerical Integration, Trajectory Simulation
 
-[View Project](YOUR_REPOSITORY_LINK)
+[View Project](https://github.com/Keikey20/Lunar-Soft-Landing-Guidance-Control.git)
 
 
 ## Education
